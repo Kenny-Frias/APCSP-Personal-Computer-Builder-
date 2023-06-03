@@ -16,7 +16,7 @@ This is the README file for the Build My PC! app. Built during a time where GPU 
 * `style.css` - This file defines the custom styling for each control in my
   app that I specified under the Design tab. 
 
-* `code.js` - This file has all the code I wrote for your app. 
+* `code.js` - This file has all the code I wrote for the app. 
 
 * `assets` - This is a directory with all the asset files (pictures and sounds)
   that I uploaded in applab.
