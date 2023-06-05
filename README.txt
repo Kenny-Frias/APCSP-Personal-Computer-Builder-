@@ -20,3 +20,5 @@ This is the README file for the Build My PC! app. Built during a time when GPU p
 
 * `assets` - This is a directory with all the asset files (pictures and sounds)
   that I uploaded in applab.
+  
+  ![Screenshot 2023-06-05 4 54 23 PM](https://github.com/Kenny-Frias/APCSP-Personal-Computer-Builder-/assets/75736549/450824eb-9b68-455f-a07b-b5af10af5bff)
