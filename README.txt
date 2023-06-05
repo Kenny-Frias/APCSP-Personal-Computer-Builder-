@@ -1,6 +1,6 @@
 # README for Build My PC! #
 
-This is the README file for the Build My PC! app. Built during a time where GPU prices were inflated, the tool simplifies the process of creating custom-built computers tailored to your needs, and also provides relavent information regarding different computer components. Choose from a wide range of top-tier components, receive intelligent recommendations, and access detailed specifications. Once your PC configuration is finalized, easily purchase the parts from reputable vendors. Stay up to date with the latest hardware releases and enjoy a user-friendly experience.
+This is the README file for the Build My PC! app. Built during a time when GPU prices were inflated, the tool simplifies the process of creating custom-built computers tailored to your needs, and also provides relavent information regarding different computer components. Choose from a wide range of top-tier components, receive intelligent recommendations, and access detailed specifications. Once your PC configuration is finalized, easily purchase the parts from reputable vendors. Stay up to date with the latest hardware releases and enjoy a user-friendly experience.
 
 
 
